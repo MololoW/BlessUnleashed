@@ -1,0 +1,9 @@
+site_name: 神佑释放
+nav:
+    - Home: index.md
+    - About: test.md
+theme:
+    name: 'material'
+
+
+
