@@ -1,7 +1,10 @@
 site_name: 神佑释放
 nav:
-    - Home: index.md
-    - About: test.md
+    - 主页: index.md
+    - 材料: material.md
+    - 游戏攻略: 
+        - 副本: instance.md
+        - 精英BOSS: boss.md
 theme:
     name: 'material'
 
