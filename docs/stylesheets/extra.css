@@ -1,0 +1,11 @@
+.md-grid {
+  max-width: 100rem;
+}
+
+.md-typeset table:not([class]) {
+  border-right: none;
+}
+
+.md-typeset table:not([class]) td,th {
+  border-right: .05rem solid var(--md-typeset-table-color);
+}
