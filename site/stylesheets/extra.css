@@ -1,0 +1,72 @@
+.md-grid {
+  max-width: 100rem;
+}
+
+body {
+  background-attachment:fixed;
+  background-image: url(https://static.neohela.com/portal/2021/0414/img/pc/game_info/intro_thumb03.jpg);
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+  /* color: #fff; */
+}
+/* .md-typeset h1,h2,h3,h4,h5{
+  color:#fff;
+} */
+
+/* .md-typeset blockquote {
+  color: #fff;
+} */
+
+.md-nav {
+  /* border: .05rem solid var(--md-typeset-table-color); */
+}
+
+.md-main__inner {
+  margin: 0;
+}
+
+.md-sidebar {
+  padding: 0;
+}
+
+.md-sidebar__inner {
+  background-color:rgba(255,255,255,0.8);
+  /* background-color: rgba(0, 0, 0, 0.5); */
+  /* color: #FFF; */
+  /* border: .05rem solid var(--md-typeset-table-color); */
+  margin: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-radius: 0.5rem;
+  color: #000;
+}
+
+.md-content {
+  /* margin: .2em; */
+  /* border: .05rem solid var(--md-typeset-table-color); */
+  /* background-color: rgba(0, 0, 0, 0.5); */
+}
+
+.md-search__form {
+  margin-right: 1rem;
+}
+
+.md-content__inner {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+  height: auto;
+  width: auto;
+}
+
+.md-typeset table:not([class]) {
+  border-right: none;
+}
+
+.md-typeset table:not([class]) td,th {
+  border-right: .05rem solid var(--md-typeset-table-color);
+}
